@@ -1,22 +1,6 @@
 {
     "spider": "http://mytv6688.xyz/aowu/bfdb--cvdvds.png",
     "sites": [
-         {
-      "key": "豆瓣",
-      "name": "知夏影视",
-      "type": 3,
-      "jar": "https://d.kstore.dev/download/12495/spider.jar",
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-    {
-      "key": "预告",
-      "name": "新片｜预告",
-      "type": 3,
-      "jar": "https://d.kstore.dev/download/12495/spider.jar",
-      "api": "csp_YGP",
-      "searchable": 0
-    },
         {
             "name": "嗷嗚|彈幕",
             "key": "GoConfig",
