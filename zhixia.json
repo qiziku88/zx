@@ -1059,12 +1059,6 @@
             "api": "https://d.kstore.dev/download/17135/自用/厂长.js"
         },
         {
-            "key": "Symx",
-            "name": "木兮美女防盗锁",
-            "type": 3,
-            "api": "https://d.kstore.dev/download/17135/自用/山有木兮.js"
-        },
-        {
             "key": "咪视界",
             "name": "咪视界4K",
             "type": 4,
@@ -1077,45 +1071,12 @@
             "key": "烈羽云4K",
             "name": "烈羽云4K",
             "type": 3,
-            "jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260329/rR08/0X0/03291351.png;md5;cd0107813f9c212fb63565e65ba1d248",
+            "jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260329/rR08/0X0/03291351.png",
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://101.201.171.207:802/api.php/app/"
-        },
-        {
-            "key": "久久",
-            "name": "久久｜APP",
-            "type": 3,
-            "jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260329/rR08/0X0/03291351.png;md5;cd0107813f9c212fb63565e65ba1d248",
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://99cms.jj99.icu:8199/api.php/app/"
-        },
-        {
-            "key": "奴娜",
-            "name": "奴娜丨APP",
-            "type": 3,
-            "jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260329/rR08/0X0/03291351.png;md5;cd0107813f9c212fb63565e65ba1d248",
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.nntv.in/api.php/v1.vod"
-        },
-        {
-            "key": "闪影",
-            "name": "闪影｜APP",
-            "type": 3,
-            "jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260329/rR08/0X0/03291351.png;md5;cd0107813f9c212fb63565e65ba1d248",
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
         },
         {
             "key": "哔哩弹幕",
