@@ -33,7 +33,7 @@
             "key": "天堂",
             "name": "天堂｜APP",
             "type": 3,
-            "jar": "https://github.com/qiziku88/zx/blob/main/spider.jar",
+            "jar": "https://d.kstore.dev/download/12495/spider.jar",
             "api": "csp_AppDrama",
             "searchable": 1,
             "quickSearch": 1,
